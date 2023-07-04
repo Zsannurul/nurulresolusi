@@ -1,0 +1,6 @@
+rencana konten nurul
+
+- javascript
+*   ES6
+- vlog
+- ekoomi
