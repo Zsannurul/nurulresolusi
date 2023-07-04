@@ -5,5 +5,7 @@ rencana konten nurul
 - vlog
 - ekoomi
 - computational thingking
-- php
-- laravel
+- decicion
+- data science
+belajar python
+ main
