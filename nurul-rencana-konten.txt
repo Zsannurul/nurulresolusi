@@ -7,3 +7,5 @@ rencana konten nurul
 - computational thingking
 - decicion
 - data science
+
+belajar python
