@@ -5,3 +5,7 @@ rencana konten nurul
 - vlog
 - ekoomi
 - computational thingking
+- decicion
+- data science
+
+belajar python
